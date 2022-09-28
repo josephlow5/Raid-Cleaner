@@ -7,7 +7,7 @@ except:
 
 #Configs
 prefix = "!"
-bot_token = "OTcxNjc5ODA0NzUzNTc1OTQ2.YnOBVg.4a8wn_Z6aRu7MAsTnZjZvvabWmo"
+bot_token = "[TOKEN]"
 
 
 #Discord Client
